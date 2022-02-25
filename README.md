@@ -1,0 +1,2 @@
+# FuckingLeetCodeHot100
+ 
